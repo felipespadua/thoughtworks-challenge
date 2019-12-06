@@ -1,0 +1,19 @@
+{
+  "name": "thoughtworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipespadua/thoughtworks-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipespadua/thoughtworks-challenge/issues"
+  },
+  "homepage": "https://github.com/felipespadua/thoughtworks-challenge#readme"
+}
